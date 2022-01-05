@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olsonjac
 - 👀 I’m interested in python and networking.
-- 🌱 I’m currently studying networking to take the network+ exam.
+- 🌱 I have now passed my Comptia Network + and LPI certification exams
 - 📫 How to reach me olsonjac17@gmail.com
 
 <!---
