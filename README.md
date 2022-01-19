@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @olsonjac
-- 👀 I’m interested in python and networking.
+- 👋 Hi, I’m Jacob Olson
+- 👀 I’m interested in python, networking, and automation through scripting.
 - 🌱 I have now passed my Comptia Network + and LPI certification exams
 - 📫 How to reach me olsonjac17@gmail.com
 
