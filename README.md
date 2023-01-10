@@ -8,6 +8,7 @@
 2. Linux Essentials 
 3. Python Certified Entry-Level Programmer 
 4. AWS Certified Cloud Practicioner, AWS Certified Developer - Associate, AWS Certified Solution Architect - Associate.
+5. Up Next: Certified Kubernetes Administrator and the AWS SysOps - Associate
 
 - 📫 How to reach me: olsonjac17@gmail.com
 
