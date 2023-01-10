@@ -1,8 +1,14 @@
 <h1>About Me</h1>
 
-- 👋 Hi, I’m Jacob Olson
-- 👀 I’m interested in python, networking, and automation through scripting.
-- 🌱 I have now passed my CompTIA Network +, Linux Essentials, and Python Certified Entry-Level Programmer Certifications. I am now moving on to my AWS Certified Cloud Practitioner and CompTia Security +.
+# Jacob Olson
+- I’m interested in Python, DevOps, AWS, and Kubernetes. I am always moving forward and gaining skills that allow me to build fully automated CI/CD pipelines.
+
+- 🌱 I have now passed: 
+1. CompTIA Network + 
+2. Linux Essentials 
+3. Python Certified Entry-Level Programmer 
+4. AWS Certified Cloud Practicioner, AWS Certified Developer - Associate, AWS Certified Solution Architect - Associate.
+
 - 📫 How to reach me: olsonjac17@gmail.com
 
 <!---
