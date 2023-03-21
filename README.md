@@ -3,7 +3,7 @@
 # Jacob Olson
 - I’m interested in Python, DevOps, AWS, and Kubernetes. I am always moving forward and gaining skills that allow me to build fully automated CI/CD pipelines.
 
-- <h2>Certifications:</h2> 
+<h2>Certifications:</h2> 
 1. CompTIA Network + <p align="center"> <img src="https://user-images.githubusercontent.com/50496441/226674436-920218f2-0e97-4871-b895-dc989287548c.png" width="100" height="100"> </p>
 2. Linux Essentials <p align="center"><img src="https://user-images.githubusercontent.com/50496441/226674774-8a14b388-013a-4013-b5b5-4601ae17365b.png" width="100" height="100"></p>
 3. Python Certified Entry-Level Programmer <p align="center"><img src="https://user-images.githubusercontent.com/50496441/226672983-37231723-b494-4484-9480-3d81412e723b.png" width="100" height="100"></p>
