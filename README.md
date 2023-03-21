@@ -4,7 +4,7 @@
 - I’m interested in Python, DevOps, AWS, and Kubernetes. I am always moving forward and gaining skills that allow me to build fully automated CI/CD pipelines.
 
 - 🌱 I have now passed: 
-1. CompTIA Network + 
+1. CompTIA Network + ![Screenshot](CompTIA_Network_2B.png)
 2. Linux Essentials 
 3. Python Certified Entry-Level Programmer 
 4. AWS Certified Cloud Practicioner, AWS Certified Developer - Associate, AWS Certified Solution Architect - Associate.
