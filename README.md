@@ -1,5 +1,3 @@
-<h1>About Me</h1>
-
 # Jacob Olson
 <h2>Personal Goals</h2>
 I Aspire to become a DevOps Engineer, I have set some personal goals that I aim to achieve in the upcoming months and years. These goals are aimed at enhancing my technical skills and knowledge, improving my understanding of DevOps principles and best practices, and building a strong foundation to become a successful DevOps Engineer. I’m focused in Python, DevOps principles, AWS, and Kubernetes. I am always moving forward and gaining skills that allow me to build fully automated CI/CD pipelines.
