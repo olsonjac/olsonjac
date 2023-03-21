@@ -3,6 +3,7 @@
 I Aspire to become a DevOps Engineer, I have set some personal goals that I aim to achieve in the upcoming months and years. These goals are aimed at enhancing my technical skills and knowledge, improving my understanding of DevOps principles and best practices, and building a strong foundation to become a successful DevOps Engineer. I’m focused in Python, DevOps principles, AWS, and Kubernetes. I am always looking for ways to  forward and gain relevant skills that allow me to build fully automated CI/CD pipelines.
 
 <h2>Short Term Goals</h2>
+
 - Practice creating and managing CI/CD pipelines for applications using a combination of tools and techniques
 
 - Attend relevant DevOps meetups and conferences to network and learn from experienced professionals in the field
