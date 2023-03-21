@@ -33,9 +33,13 @@ I Aspire to become a DevOps Engineer, I have set some personal goals that I aim 
 
 
 
-Up Next: Certified Kubernetes Administrator and the AWS Certified DevOps Engineer
+<h2>Up Next:</h2> 
 
-- 📫 How to reach me: olsonjac17@gmail.com
+- Certified Kubernetes Administrator and the AWS Certified DevOps Engineer
+
+<h2>Contact:</h2>
+
+- 📫 Reach me: olsonjac17@gmail.com
 
 <!---
 olsonjac/olsonjac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
