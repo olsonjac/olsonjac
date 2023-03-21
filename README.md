@@ -11,6 +11,7 @@ I Aspire to become a DevOps Engineer, I have set some personal goals that I aim 
 - Work on personal projects to implement DevOps best practices and gain hands-on experience
 
 <h2>Long Term Goals</h2>
+
 - Achieve industry certifications such as the AWS Certified DevOps Engineer and the Certified Kubernetes Adminstrator Certification
 
 - Gain more expertise in cloud-based technologies such as AWS
