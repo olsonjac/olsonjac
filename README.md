@@ -34,7 +34,7 @@ I Aspire to become a DevOps Engineer, I have set some personal goals that I aim 
 
 <h2>Up Next:</h2> 
 
-- Certified Kubernetes Administrator and the AWS Certified DevOps Engineer
+- [ ] Certified Kubernetes Administrator and the AWS Certified DevOps Engineer
 
 <h2>Contact:</h2>
 
