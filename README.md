@@ -6,13 +6,13 @@ I Aspire to become a DevOps Engineer, I have set some personal goals that I aim 
 
 - [x] Practice creating and managing CI/CD pipelines for applications using a combination of tools and techniques
 
-- Attend relevant DevOps meetups and conferences to network and learn from experienced professionals in the field
+- [ ] Attend relevant DevOps meetups and conferences to network and learn from experienced professionals in the field
 
 - [x] Work on personal projects to implement DevOps best practices and gain hands-on experience
 
 <h2>Long Term Goals</h2>
 
-- Achieve industry certifications such as the AWS Certified DevOps Engineer and the Certified Kubernetes Adminstrator Certification
+- [ ] Achieve industry certifications such as the AWS Certified DevOps Engineer and the Certified Kubernetes Adminstrator Certification
 
 - [x] Gain more expertise in cloud-based technologies such as AWS and Azure 
 
@@ -20,9 +20,9 @@ I Aspire to become a DevOps Engineer, I have set some personal goals that I aim 
 
 - [x] Mentor and teach others to become proficient in DevOps practices and principles
 
-- Contribute to open source projects and participate in the DevOps community
+- [ ] Contribute to open source projects and participate in the DevOps community
 
-<h2>Certifications:</h2> 
+<h2>My Certifications:</h2> 
 1. CompTIA Network + <p align="center"> <img src="https://user-images.githubusercontent.com/50496441/226674436-920218f2-0e97-4871-b895-dc989287548c.png" width="100" height="100"> </p>
 2. Linux Essentials <p align="center"><img src="https://user-images.githubusercontent.com/50496441/226674774-8a14b388-013a-4013-b5b5-4601ae17365b.png" width="100" height="100"></p>
 3. Python Certified Entry-Level Programmer <p align="center"><img src="https://user-images.githubusercontent.com/50496441/226672983-37231723-b494-4484-9480-3d81412e723b.png" width="100" height="100"></p>
