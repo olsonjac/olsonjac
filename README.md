@@ -4,21 +4,21 @@ I Aspire to become a DevOps Engineer, I have set some personal goals that I aim 
 
 <h2>Short Term Goals</h2>
 
-- Practice creating and managing CI/CD pipelines for applications using a combination of tools and techniques
+- [x] Practice creating and managing CI/CD pipelines for applications using a combination of tools and techniques
 
 - Attend relevant DevOps meetups and conferences to network and learn from experienced professionals in the field
 
-- Work on personal projects to implement DevOps best practices and gain hands-on experience
+- [x] Work on personal projects to implement DevOps best practices and gain hands-on experience
 
 <h2>Long Term Goals</h2>
 
 - Achieve industry certifications such as the AWS Certified DevOps Engineer and the Certified Kubernetes Adminstrator Certification
 
-- Gain more expertise in cloud-based technologies such as AWS and Azure
+- [x] Gain more expertise in cloud-based technologies such as AWS and Azure 
 
-- Lead DevOps projects for organizations, collaborating with cross-functional teams to ensure successful delivery and adoption of DevOps practices at my position
+- [x] Lead DevOps projects for organizations, collaborating with cross-functional teams to ensure successful delivery and adoption of DevOps practices at my position
 
-- Mentor and teach others to become proficient in DevOps practices and principles
+- [x] Mentor and teach others to become proficient in DevOps practices and principles
 
 - Contribute to open source projects and participate in the DevOps community
 
