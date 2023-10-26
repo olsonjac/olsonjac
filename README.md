@@ -6,7 +6,7 @@ I Aspire to become a DevOps Engineer, I have set some personal goals that I aim 
 
 - [x] Practice creating and managing CI/CD pipelines for applications using a combination of tools and techniques
 
-- [ ] Attend relevant DevOps meetups and conferences to network and learn from experienced professionals in the field
+- [x] Attend relevant DevOps meetups and conferences to network and learn from experienced professionals in the field
 
 - [x] Work on personal projects to implement DevOps best practices and gain hands-on experience
 
